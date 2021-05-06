@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281845375873",
+    "firebase_url": "https://covid-19-tracker-5117b.firebaseio.com",
+    "project_id": "covid-19-tracker-5117b",
+    "storage_bucket": "covid-19-tracker-5117b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281845375873:android:5163ec8272069904153e80",
+        "android_client_info": {
+          "package_name": "com.UtsavCovid_Tracker.Second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281845375873-muas4v79mmdinbdmiqrl132adja8q14a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7AANUDrfxLPqfl2--rMUqaY40hOfypgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281845375873-muas4v79mmdinbdmiqrl132adja8q14a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
